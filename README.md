@@ -1,3 +1,3 @@
 # cv
 
-(<https://github.com/RPytalev/cv/>)  
+(<https://rpytalev.github.io/cv/>)  
